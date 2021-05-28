@@ -1,4 +1,5 @@
 <?php
+<--Halo Bob-->
 include 'database.php';
 $db = new database();
 ?>
