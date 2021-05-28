@@ -41,3 +41,4 @@ foreach($db->edit($_GET['id']) as $d){
 <?php
 }
 ?>
+    
