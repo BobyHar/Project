@@ -1,5 +1,7 @@
 <h1>CRUD OOP PHP</h1>
+
 <h2>WWW.MALASNGODING.COM</h2>
+
 <h3>Tambah Data User</h3>
 
 <form action="proses.php?aksi=tambah" method="post">
@@ -21,5 +23,6 @@
         <td></td>
         <td><input type="submit" value="Simpan"></td>
     </tr>
+    
 </table>
 </form>
